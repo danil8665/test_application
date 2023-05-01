@@ -1,4 +1,5 @@
 {
+  "typescript.tsc.watchOptions": { "silent": true },
   "compilerOptions": {
     "target": "es5",
     "lib": [
